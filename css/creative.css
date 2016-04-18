@@ -178,7 +178,8 @@ header {
     min-height: auto;
     text-align: center;
     color: #fff;
-    background-image: url(../img/header/456498.jpg);
+    background-color: #121F2A;
+    /*background-image: url(../img/header/linuxdna2arch.png);*/
     background-position: center;
     -webkit-background-size: cover;
     -moz-background-size: cover;
